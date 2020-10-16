@@ -6,10 +6,6 @@
     <description>Recent content in Categories on 송도영 | Doyoung Song&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 a hugo theme by [Kas Song](https://github.com/KasRoid)</copyright>
-    
-	<atom:link href="https://kasroid.github.io/Portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [Kas Song](https://github.com/KasRoid)</copyright><atom:link href="https://kasroid.github.io/Portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
